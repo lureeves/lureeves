@@ -8,7 +8,10 @@
 <br/>
 
 #### One of my projects:
-#### Rapid Remember 🧠📝 - Web app that is a modern take on memorization, it uses AI to reinforce learning faster with higher rention rates.
+#### [Rapid Remember](https://github.com/lureeves/rapid-remember) 🧠📝 - Web app that is a modern take on memorization, it uses AI to reinforce learning faster with higher retention rates.
+
+#### Algorithmic Projects:
+#### [Battelship Validator](https://github.com/lureeves/battleship-validator) - Designing a program that checks for valid ship layouts on a 10 x 10 grid.
 
 <br/><br/>
 
